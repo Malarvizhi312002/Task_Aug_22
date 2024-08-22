@@ -1,0 +1,17 @@
+Solutions_Exam
+
+1. c) 538 511 5+38
+2. B) 11 11
+3. A) 62
+4. c) 65
+5. A) Compile Time Error
+6. c) compile time Error
+7. C) True False FAlse
+8. A)Compile Time Error
+9. A) Extending Thread Class
+10. B) run-test
+11. B) Using<%jsp:param> tag
+12. a) include
+13. b) id, type
+14. c) jsp:getProperty
+15. a) Custom Tags in JSPS
