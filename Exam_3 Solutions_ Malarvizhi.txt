@@ -1,0 +1,27 @@
+Solutions:
+
+1. B) ParseException
+2. d) all the above
+3. b) B C Z
+4. A) B X Z
+5. b) 3 1
+6. b) 2 1
+7. b) Hi Program End
+8. A) Division by Zero impossible
+9. D) Array size small
+10. a) Hi Program End
+11. B) Array List
+12. C) Set
+13. B) LinkedhashSet
+14. D) All
+15. B) Tree Set
+16. B) removeAll()
+17. C) Map
+18. B) Babbar
+19. B) 102
+20. d)All
+21. b) set()
+22. A) string
+23. B) compare(object , object)
+24. A) Generics
+25. C) Vector
